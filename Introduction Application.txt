@@ -1,0 +1,73 @@
+Class-based structure: Better organization of components and state management
+
+Enhanced preprocessing options:
+
+Grayscale conversion
+
+Binarization with adjustable threshold
+
+Color inversion
+
+Noise reduction
+
+Advanced OCR configuration:
+
+Page segmentation modes (PSM)
+
+OCR engine modes (OEM)
+
+Language selection
+
+Improved user interface:
+
+Separate processing options panel
+
+Larger image preview
+
+Text output with scrollbar
+
+Status bar
+
+Better organized layout
+
+Performance enhancements:
+
+Threaded processing to prevent UI freeze
+
+Caching of processed images
+
+Additional features:
+
+Save processed image
+
+Save extracted text
+
+Real-time preview of processed image
+
+Error handling:
+
+Better error messages
+
+Input validation
+
+Status updates
+
+Style improvements:
+
+Themed widgets (ttk)
+
+Consistent spacing and padding
+
+Better visual hierarchy
+
+To use this application:
+
+Select an image file using the Browse button
+
+Adjust processing options as needed
+
+Click "Extract Text" to perform OCR
+
+Use "Save Image" to save processed image
+
+Use "Save Text" (right-click in text area) to save extracted text
